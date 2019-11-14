@@ -27,6 +27,6 @@
             <p class="shadow-text"><b>12 September 1999</b></p>
         </div>
     </div>
-    <div class="countdown" data-scroll-reveal="enter from the bottom after 2.5s"></div>
+    <!-- <div class="countdown" data-scroll-reveal="enter from the bottom after 2.5s"></div> -->
 </div>
 <!-- ========== BANNER END ========== -->
