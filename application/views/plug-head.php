@@ -40,12 +40,5 @@
 
 		<!-- Font Awesome Icons -->
 		<link href="<?=base_url('assets/')?>fonts/font-awesome/4.0.2/font-awesome.css" rel="stylesheet">
-
-		<!-- HTML5 shiv and Respond.js IE8 support of HTML5 elements and media queries -->
-		<!--[if lt IE 9]>
-		<script src="js/html5shiv.js"></script>
-		<script src="js/respond.min.js"></script>
-		<![endif]-->
-
 	</head>
 	<body>

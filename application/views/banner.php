@@ -12,7 +12,7 @@
 <a id="home"></a>
 <!-- ========== BANNER START ========== -->
 <div id="slides">
-    <div class="slides-container" style="background-color:black;">
+    <div class="slides-container">
         <img height="500" src="<?=base_url('assets/')?>images/banner1.webp" alt="..." />
         <img height="500" src="<?=base_url('assets/')?>images/banner2.webp" alt="..." />
         <img height="500" src="<?=base_url('assets/')?>images/banner3.webp" alt="..." /> -->
